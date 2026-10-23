@@ -1,0 +1,9 @@
+.venv/
+output/
+output_regression/
+build/
+*.o
+fdtd1d
+research_notes/
+reports/
+__pycache__/

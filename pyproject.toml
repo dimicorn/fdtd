@@ -1,0 +1,14 @@
+[project]
+name = "fdtd"
+version = "0.1.0"
+description = "1D FDTD solver: pulse propagation in vacuum/dielectric, linear Lorentz dispersion"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.3",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
