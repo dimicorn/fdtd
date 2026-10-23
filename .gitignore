@@ -1,6 +1,4 @@
 .venv/
-output/
-output_regression/
 build/
 *.o
 fdtd1d

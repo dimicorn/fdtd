@@ -1,0 +1,6 @@
+# scenario=lorentz dx_m=2.000000e-08 dt_s=3.335641e-17 x_src_m=1.000000e-05 x_d_m=4.500000e-05 L_m=1.250000e-04 eps_inf_right=2.250000e+00 eps_s_right=2.250000e+00 omega0_right=4.000000e+14 delta_right=2.000000e+09 src_f0_hz=1.370000e+14
+index,filename,t_s,t_fs,label
+0,snapshot_00.csv,1.200164e-13,120,approaching_interface
+1,snapshot_01.csv,1.917326e-13,191.7,at_interface
+2,snapshot_02.csv,2.918019e-13,291.8,depth_20um
+3,snapshot_03.csv,3.918711e-13,391.9,depth_40um

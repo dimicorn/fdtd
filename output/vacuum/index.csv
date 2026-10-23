@@ -1,0 +1,8 @@
+# scenario=vacuum dx_m=2.000000e-08 dt_s=3.335641e-17 x_src_m=4.000000e-06 x_d_m=NA L_m=3.000000e-05 eps_inf_right=1.000000e+00 eps_s_right=1.000000e+00 omega0_right=1.000000e+00 delta_right=0.000000e+00 src_f0_hz=0.000000e+00
+index,filename,t_s,t_fs,label
+0,snapshot_00.csv,4.499780e-14,45,t45fs
+1,snapshot_01.csv,5.500472e-14,55,t55fs
+2,snapshot_02.csv,6.501164e-14,65.01,t65fs
+3,snapshot_03.csv,7.498521e-14,74.99,t75fs
+4,snapshot_04.csv,8.499213e-14,84.99,t85fs
+5,snapshot_05.csv,9.499905e-14,95,t95fs
